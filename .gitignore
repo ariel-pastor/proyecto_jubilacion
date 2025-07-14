@@ -1,0 +1,18 @@
+# === ENTORNOS VIRTUALES ===
+.venv/
+
+# === PYTHON CACHE ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === LOGS ===
+*.log
+
+# === ARCHIVOS DEL SISTEMA ===
+.DS_Store
+Thumbs.db
+
+# === OTROS ===
+.env

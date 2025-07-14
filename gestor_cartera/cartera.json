@@ -1,0 +1,98 @@
+[
+    {
+        "fecha": "2025-07-10",
+        "activo": "BTC",
+        "cantidad": 0.25,
+        "monto": 10000.0
+    },
+    {
+        "fecha": "2025-07-10",
+        "activo": "SP500",
+        "cantidad": 13.0,
+        "monto": 1200.0
+    },
+    {
+        "fecha": "2025-07-10",
+        "activo": "ORO",
+        "cantidad": 1.0,
+        "monto": 1200.0
+    },
+    {
+        "fecha": "2025-07-10",
+        "activo": "ORO",
+        "cantidad": 0.7,
+        "monto": 750.0
+    },
+    {
+        "fecha": "2025-07-12",
+        "activo": "ORO",
+        "cantidad": 0.0023,
+        "monto": 10.0
+    },
+    {
+        "fecha": "2025-07-12",
+        "activo": "BTC",
+        "cantidad": 0.03,
+        "monto": 500.0
+    },
+    {
+        "fecha": "2025-07-12",
+        "activo": "SP500",
+        "cantidad": 1.0,
+        "monto": 750.0
+    },
+    {
+        "fecha": "2025-07-12",
+        "activo": "BTC",
+        "cantidad": 0.052,
+        "monto": 1500.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "BTC",
+        "cantidad": 0.025,
+        "monto": 1500.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "ORO",
+        "cantidad": 0.5,
+        "monto": 1500.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "ORO",
+        "cantidad": 0.5,
+        "monto": 1200.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "BTC",
+        "cantidad": 0.3,
+        "monto": 20000.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "BTC",
+        "cantidad": 0.03,
+        "monto": 1500.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "ORO",
+        "cantidad": 0.05,
+        "monto": 1000.0
+    },
+    {
+        "fecha": "2025-07-13",
+        "activo": "BTC",
+        "cantidad": 0.03,
+        "monto": 6000.0
+    },
+    {
+        "fecha": "2025-07-14",
+        "activo": "BTC",
+        "cantidad": 0.09,
+        "monto": 4000.0
+    }
+]
